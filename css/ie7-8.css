@@ -1,5 +1,25 @@
+
 #right_column .search .txt{
-    border: 0 ;
-    line-height: 1.8;
     offset:none;
+    border: 0;
+    line-height: 1.8;
+}
+.foot_cont .foot_col hr{
+    border: 0;
+    color: #70aec0;
+}
+.foot_cont .form .foot_form_name input,.foot_cont .form .foot_form_email input{
+    background: white;
+    line-height: 1.8;
+}
+.foot_cont .form .foot_form_txt textarea{
+    background: white;
+}
+#right_column .col_post div hr{
+    width: 240px;
+    border: 0;
+    color: #ece8e8;
+}
+.comment_form input{
+    line-height: 1.9;
 }
